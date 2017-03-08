@@ -1,0 +1,19 @@
+{
+  "name": "angular-assessment",
+  "version": "1.0.0",
+  "description": "This assessment is intended to assess your skills and knowledge of Angular concepts.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/deltmd/angular-assessment.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/deltmd/angular-assessment/issues"
+  },
+  "homepage": "https://github.com/deltmd/angular-assessment#readme"
+}
